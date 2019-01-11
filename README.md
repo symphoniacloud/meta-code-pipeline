@@ -54,7 +54,7 @@ Resources:
     Properties:
       Location:
         ApplicationId: arn:aws:serverlessrepo:us-east-1:392967531616:applications/meta-codepipeline
-        SemanticVersion: 1.0.0
+        SemanticVersion: 1.0.1
       Parameters: 
         GitHubOAuthToken: !Ref GitHubOAuthToken
         GitHubOwner: YOUR-GITHUB-OWNER

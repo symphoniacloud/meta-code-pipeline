@@ -11,9 +11,9 @@ Metadata:
     LicenseUrl: LICENSE
     ReadmeUrl: README.md
     Labels: ['codepipeline', 'cd', 'devops', 'github']
-    HomePageUrl: https://github.com/symphoniacloud/meta-codepipeline
-    SemanticVersion: 1.0.0
-    SourceCodeUrl: https://github.com/symphoniacloud/meta-codepipeline
+    HomePageUrl: https://github.com/symphoniacloud/meta-code-pipeline
+    SemanticVersion: 1.0.1
+    SourceCodeUrl: https://github.com/symphoniacloud/meta-code-pipeline
 
 Parameters:
   GitHubOAuthToken:
