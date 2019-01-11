@@ -28,6 +28,8 @@ This project assumes you're using GitHub as your source repository, and that you
 
 TODO - flesh this out a little more:
 
+Meta CodePipeline is available in the AWS Serverless Application Repo [here](https://serverlessrepo.aws.amazon.com/#/applications/arn:aws:serverlessrepo:us-east-1:392967531616:applications~meta-codepipeline) . To use this as a SAR nested app, follow the instructions below.
+
 Create your application's CodePipeline as normal, and save it to your's application's source repo.
 
 Now create a new template (e.g. `meta-pipeline.yaml`) as follows:
